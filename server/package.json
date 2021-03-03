@@ -2,7 +2,7 @@
   "dependencies": {
     "@serialport/parser-readline": "^2.0.2",
     "express": "^4.17.1",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "serialport": "^7.1.5",
     "socket.io": "^2.2.0"
   }
